@@ -1,1 +1,3 @@
-We've packed a lot into this lesson and there's more available if you're still hungry. Check out the Resources tab for more information about the Command Line and also about how your computer actually works. For a good start, browse through the presentation below.
+We've packed a lot into this lesson and there's more available if you're still hungry. 
+Check out the Resources tab for more information about the Command Line and also about 
+how your computer actually works. For a good start, browse through the presentation below.
